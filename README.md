@@ -1,0 +1,6 @@
+# RecyclerViewForEclipse
+创建工程
+
+这是一个针对Eclipse的关于RecyclerView的library工程，library本身已经导入了support-v4包，所以请不要再自己的工程中导入support-v4包，
+如果引用的其他library工程包含support-v4包，请先删除其他library工程中libs文件夹的support-v4 jar包，然后将本library下面的libs文件夹中的全部jar包
+复制到其他library工程中的libs文件夹，
